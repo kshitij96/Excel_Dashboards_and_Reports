@@ -8,7 +8,7 @@ Identify the measures required to increase the revenue of a Super Store in USA.
 Developed three reports (Customer, Sales, and Profit) and a dashboard in excel using data of year 2014-17. Also, identified
 the KPIs and provided suggestion on actions to be taken in order to increase the sales.
 
-#### Data Source:
+## Data Source:
 https://www.kaggle.com/datasets/juhi1994/superstore
 
 ## Excel Dashboard:
